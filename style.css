@@ -1,0 +1,40 @@
+
+body {  background-color: rgb(215, 111, 180) ;background-size: 100%;}
+img{ background-color: rgb(221, 113, 198) ; float: left;}
+h1, h2, p{  background-color: rgb(217, 114, 212) ;text-align: left;
+
+}
+table{  background-color: rgb(195, 103, 220) ;width: 100%;}
+
+.one th, td{ background-color: rgb(205, 52, 222) ; text-align: center;}
+
+.two 
+th, ul, li{ text-align: left;}
+form {text-align: center;margin-top: 300px;}
+caption{ margin-top: 300px;}
+.button{background-color: #ff4741;
+     border: none;
+      color: aliceblue ;
+       padding: 10px;
+        text-align: center; 
+        text-decoration: none;
+         display: block; 
+         font-size: 16px; 
+         margin: 4px 2px; 
+         border-radius: 8px;}
+
+
+#j{ background-image: url('background-image.png'); background-size: 100%;}
+.four{text-align: center; margin-top: 300px;}
+.button { background-color: #ff4741;
+    border: none;
+     color: aliceblue ;
+      padding: 10px;
+       text-align: center; 
+       text-decoration: none;
+        display: block; 
+        font-size: 16px; 
+        margin: 4px 2px; 
+        border-radius: 8px;}
+
+
